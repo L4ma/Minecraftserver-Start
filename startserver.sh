@@ -1,5 +1,5 @@
 clear
-read -p  "Dou you want so start the server? (Yes/No)" starting
+read -p  "Dou you want to start the server? (Yes/No)" starting
 if [ $starting == yes && Yes]
 	then
 	echo -e "Starting Minecraft Server in 3 seconds.."
